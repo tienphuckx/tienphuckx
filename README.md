@@ -6,7 +6,7 @@
 
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,springboot,c,c++,qt,qml,html,css,tailwind,js,react,ts,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow)](#)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
