@@ -50,6 +50,8 @@
 [![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) 
 [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=tienphuckx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<div style="display: flex; align-items: center;">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tienphuckx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  </div>
