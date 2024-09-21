@@ -9,7 +9,7 @@ I hope this message finds you well and that you're having a productive and pleas
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,jira,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,git,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
 
 ## Statistical chart:
 <div style="display: flex; align-items: center;">
