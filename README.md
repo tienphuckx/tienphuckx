@@ -2,14 +2,13 @@
   <img src="https://github.com/tienphuckx/tienphuckx/blob/master/nguyen_tien_phuc.svg" alt="Nguyen Tien Phuc" />
 </h1>
 
-
-<div>
-<img align="left" width="200px" src="https://github.com/tienphuckx/tienphuckx/blob/master/phuc.jfif" />
-
-### Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋 
-I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
+<div style="display: flex; align-items: center;">
+  <img align="left" width="200px" src="https://github.com/tienphuckx/tienphuckx/blob/master/phuc.jfif" />
+  <p>
+    ### Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋 
+    I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
+  </p>
 </div>
-<hr>
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,jira,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
