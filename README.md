@@ -6,8 +6,8 @@
 
 
 ### **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=amalinux,kali,vmware,burpsuite,ubuntu,aws,kubernate,docker,azure,mysqljava,spring,c,cpp,qt,html,css,tailwind,js,react,ts,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow)](#)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,vmwareworkstation,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
+<!--
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-Linux-000?&logo=Python)
 
 
-<!-- ### Full Stack Projects
+ ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
