@@ -1,10 +1,9 @@
-### Hey! Welcome to my nest👋
-!I'm Phuc Nguyen Tien
-!Software / Security Engineer
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Phuc Nguyen Tien" />
 </h1>
+
+### Hey! Welcome to my nest👋
+Hope you find some things fun
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
