@@ -1,10 +1,10 @@
-## Hey! Welcome to my nest👋
+# Hey! Welcome to my nest👋
 I'm Phuc (tienphuckx), a Software / Security Engineer
-- 🦔 Founder of [EziThings](https://ezthing.com) EziThings
-- 👨‍💻 Working at [BOSCH](https://www.bosch-softwaretechnologies.com/en/index.html) and [FPT Software](https://fptsoftware.com/)  
-+ a lot more ;)
+Founder of [EziThings](https://ezthing.com) EziThings
+[BOSCH](https://www.bosch-softwaretechnologies.com/en/index.html) and 
+[FPT Software](https://fptsoftware.com/)  
 
-### Languages
+# Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -14,7 +14,7 @@ I'm Phuc (tienphuckx), a Software / Security Engineer
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### Technologies
+# Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -26,7 +26,7 @@ I'm Phuc (tienphuckx), a Software / Security Engineer
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
+# Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
@@ -35,7 +35,7 @@ I'm Phuc (tienphuckx), a Software / Security Engineer
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-### Cybersecurity Projects
+# Cybersecurity Projects
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
 [![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
 [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
@@ -46,7 +46,7 @@ I'm Phuc (tienphuckx), a Software / Security Engineer
 ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-107-informational?labelColor=7D898B)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-83-blueviolet?labelColor=7D898B)
 
-### My follower <3
+# My follower
 [![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/Satyajit-Chaudhuri) [![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/blessinvarkey)](https://github.com/blessinvarkey) 
 [![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) 
 [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
