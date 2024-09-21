@@ -5,6 +5,8 @@
 <img align="left" width="200px" src="https://github.com/tienphuckx/tienphuckx/blob/master/phuc.jfif" />
 Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋  
 I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
+
+I'm a Security Engineer with experience in software development, web penetration testing, and the automotive industry. I am currently advancing my skills in malware analysis.
 <br clear="left"/>
 
 
@@ -18,7 +20,7 @@ I hope this message finds you well and that you're having a productive and pleas
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-## Software and Tools
+## Software and IDE:
 ![IntelliJ Idea](	https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
