@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://github.com/tienphuckx/tienphuckx/blob/master/name.svg" alt="Nguyen Tien Phuc" />
+  <img src="https://github.com/tienphuckx/tienphuckx/blob/master/nguyen_tien_phuc.svg" alt="Nguyen Tien Phuc" />
 </h1>
 
-### Hey! Welcome to my nest👋
-Hope you find some things fun
+### Hey! I'm Phuc (tienphuckx) 👋 Welcome to my space 👋
+I hope this message finds you well and that you're having a productive and pleasant day!
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -19,12 +19,14 @@ Hope you find some things fun
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Qt](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![QML](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Java](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![C](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![C++](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Python](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
@@ -47,3 +49,7 @@ Hope you find some things fun
 [![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/Satyajit-Chaudhuri) [![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/blessinvarkey)](https://github.com/blessinvarkey) 
 [![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) 
 [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
