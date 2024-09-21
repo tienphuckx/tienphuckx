@@ -2,6 +2,10 @@
 !I'm Phuc Nguyen Tien
 !Software / Security Engineer
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Phuc Nguyen Tien" />
+</h1>
+
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
