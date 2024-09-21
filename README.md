@@ -6,7 +6,7 @@
 
 
 ### **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,vmwareworkstation,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,jira,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
 <!--
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -59,4 +59,7 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
