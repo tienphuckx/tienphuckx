@@ -6,7 +6,7 @@
 
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow)](#)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -38,13 +38,6 @@
 [![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
-
-### My follower
-[![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/Satyajit-Chaudhuri](https://github.com/secretdeveloperisme))]([https://github.com/Satyajit-Chaudhuri](https://github.com/secretdeveloperisme)) 
-[![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/blessinvarkey](https://github.com/hoangnhikg))]([https://github.com/blessinvarkey](https://github.com/hoangnhikg)) 
-[![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/billyeatcookies](https://github.com/nvmao))]([https://github.com/billyeatcookies](https://github.com/nvmao)) 
-[![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/emmachalupka](https://github.com/JohnMwendwa))]([https://github.com/emmachalupka](https://github.com/JohnMwendwa)) 
-[![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
 
 <div style="display: flex; align-items: center;">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tienphuckx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
