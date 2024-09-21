@@ -3,10 +3,8 @@
 </h1>
 
 <img align="left" width="200px" src="https://github.com/tienphuckx/tienphuckx/blob/master/phuc.jfif" />
-
 Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋  
 I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
-
 <br clear="left"/>
 
 
@@ -31,8 +29,4 @@ I hope this message finds you well and that you're having a productive and pleas
 ![ChatGTP](https://img.shields.io/badge/AI-ChatGPT-F68212.svg?style=for-the-badge&logo=OpenAI")
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
