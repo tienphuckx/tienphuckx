@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg](https://github.com/tienphuckx/tienphuckx/blob/master/name.svg)" alt="Nguyen Tien Phuc" />
+  <img src="https://github.com/tienphuckx/tienphuckx/blob/master/name.svg" alt="Nguyen Tien Phuc" />
 </h1>
 
 ### Hey! Welcome to my nest👋
