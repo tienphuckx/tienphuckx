@@ -6,7 +6,7 @@
 
 
 ### **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,qt,html,css,tailwind,js,react,ts,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow)](#)
+[![My Skills](https://skillicons.dev/icons?i=amalinux,kali,vmware,burpsuite,ubuntu,aws,kubernate,docker,azure,mysqljava,spring,c,cpp,qt,html,css,tailwind,js,react,ts,mongodb,firebase,md,git,github,vscode,styledcomponents,postman,stackoverflow)](#)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
