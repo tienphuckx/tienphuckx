@@ -3,10 +3,11 @@
 </h1>
 
 <img align="left" width="200px" src="https://github.com/tienphuckx/tienphuckx/blob/master/phuc.jfif" />
-Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋  
+Hey! I'm Phuc 👋👋👋 (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋  
 I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
 
-I'm a Security Engineer with experience in software development, web penetration testing, and the automotive industry. I am currently advancing my skills in malware analysis.
+I'm a Security Engineer with experience in Software Development, Web Penetration Testing, and the Automotive Industry. 👋👋👋
+I am currently advancing my skills in Malware Analysis. 👋👋👋
 <br clear="left"/>
 
 
