@@ -5,14 +5,8 @@
 ### Hey! I'm Phuc (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋 I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋 
 
 
-### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+## **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -46,8 +40,10 @@
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
 ### My follower
-[![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/Satyajit-Chaudhuri) [![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/blessinvarkey)](https://github.com/blessinvarkey) 
-[![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) 
+[![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/Satyajit-Chaudhuri](https://github.com/secretdeveloperisme))]([https://github.com/Satyajit-Chaudhuri](https://github.com/secretdeveloperisme)) 
+[![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/blessinvarkey](https://github.com/hoangnhikg))]([https://github.com/blessinvarkey](https://github.com/hoangnhikg)) 
+[![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/billyeatcookies](https://github.com/nvmao))]([https://github.com/billyeatcookies](https://github.com/nvmao)) 
+[![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=[https://github.com/emmachalupka](https://github.com/JohnMwendwa))]([https://github.com/emmachalupka](https://github.com/JohnMwendwa)) 
 [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
 
 <div style="display: flex; align-items: center;">
