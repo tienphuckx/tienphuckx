@@ -1,8 +1,5 @@
-# Hey! Welcome to my nest👋
+#### Hey! Welcome to my nest👋
 I'm Phuc (tienphuckx), a Software / Security Engineer
-Founder of [EziThings](https://ezthing.com) EziThings
-[BOSCH](https://www.bosch-softwaretechnologies.com/en/index.html) and 
-[FPT Software](https://fptsoftware.com/)  
 
 # Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -43,10 +40,7 @@ Founder of [EziThings](https://ezthing.com) EziThings
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-107-informational?labelColor=7D898B)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-83-blueviolet?labelColor=7D898B)
-
-# My follower
+#### My follower
 [![Github Badge](https://img.shields.io/badge/-@Satyajit--Chaudhuri-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/Satyajit-Chaudhuri) [![Github Badge](https://img.shields.io/badge/-@blessinvarkey-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/blessinvarkey)](https://github.com/blessinvarkey) 
 [![Github Badge](https://img.shields.io/badge/-@billyeatcookies-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/billyeatcookies)](https://github.com/billyeatcookies) [![Github Badge](https://img.shields.io/badge/-@emmachalupka-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/emmachalupka)](https://github.com/emmachalupka) 
 [![Github Badge](https://img.shields.io/badge/-@DaniHRE-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/DaniHRE)](https://github.com/DaniHRE) 
