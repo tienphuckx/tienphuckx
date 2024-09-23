@@ -12,7 +12,7 @@ I am currently advancing my skills in Malware Analysis. 👋👋👋
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,git,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,html,css,tailwind,js,react,ts,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,postman)](#)
 
 ## Statistical chart:
 <div style="display: flex; align-items: center;">
