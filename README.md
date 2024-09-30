@@ -6,8 +6,8 @@
 Hey! I'm Phuc 👋👋👋 (tienphuckx) 👋👋👋 Welcome to my space 👋👋👋  
 I hope this message finds you well and that you're having a productive and pleasant day! 👋👋👋
 
-I'm a Security Engineer with experience in Software Development, Web Penetration Testing, and the Automotive Industry. 👋👋👋
-I am currently advancing my skills in Malware Analysis. 👋👋👋
+I'm a Security Engineer with experience in Software Development, Web Penetration Testing. 👋👋👋
+I am currently advancing my skills in the Automotive Industry. 👋👋👋
 <br clear="left"/>
 
 
