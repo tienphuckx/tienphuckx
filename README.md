@@ -16,7 +16,7 @@ I am currently advancing my skills in the Automotive Industry. 👋👋👋
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,postman)](#)
 
 ## Statistical chart:
-<img src="https://github-readme-stats.vercel.app/api?username=tienphuckx&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Phuc's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html,css,js&hide_title=fasle&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,c6ffdd,fbd786,f7797d&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api?username=tienphuckx&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Phuc's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html,css,js,php&hide_title=fasle&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,c6ffdd,fbd786,f7797d&theme=graywhite" />
 
 ## Software and IDE: 
 ![IntelliJ Idea](	https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
