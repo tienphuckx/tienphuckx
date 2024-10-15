@@ -15,8 +15,7 @@ I am currently advancing my skills in the Automotive Industry. 👋👋👋
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,aws,docker,azure,mysql,elasticsearch,java,spring,c,cpp,qt,mongodb,firebase,postman)](#)
 
 ## Statistical chart:
-<!-- <div style="display: flex; align-items: center;"> -->
-<!--     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tienphuckx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=secretdeveloperisme&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretdeveloperisme&layout=compact&theme=dark&hide_border=true" />|
     
   <img height="187px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienphuckx&hide=html,css,js&hide_title=fasle&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,c6ffdd,fbd786,f7797d&theme=graywhite" />
